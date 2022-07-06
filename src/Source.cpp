@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../include/Index.hpp"
+#include "../includ/Index.hpp"
 
 using namespace std;
 

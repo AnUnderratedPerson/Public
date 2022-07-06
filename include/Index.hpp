@@ -8,4 +8,7 @@ using namespace std;
 
 #endif
 
-void Print();
+namespace Test {
+    template <typename T>
+    void PrintValue(T);
+}

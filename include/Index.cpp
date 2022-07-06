@@ -1,5 +1,6 @@
 #include "./Index.hpp"
 
-void Print() {
-    cout << "Hello world!" << endl;
+template <typename T>
+void Test::PrintValue(T V) {
+    cout << V << endl;
 }

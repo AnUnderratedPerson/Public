@@ -3,6 +3,4 @@
 
 using namespace std;
 
-int main() {
-    Test::PrintValue("Hello world!");
-}
+int main() {}
